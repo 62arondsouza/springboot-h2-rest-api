@@ -11,7 +11,7 @@
 	<groupId>in.aron</groupId>
 	<artifactId>36-Rest-Api-CRUD-App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>36-Rest-Api-CRUD-App</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
